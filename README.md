@@ -1,6 +1,6 @@
 # OMGEmotionChallenge code
 
-## 1 dependencies
+## Dependencies
 - python3.6
 - tensorflow
 - keras
@@ -9,7 +9,7 @@
 
 > Please use the latest version without additional explanations
 
-## 2 submission
+## Submission
 
 ### 1.
 
